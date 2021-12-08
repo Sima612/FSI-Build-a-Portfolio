@@ -1,3 +1,13 @@
-html {
+body {
     background-color: black;
+    color: yellow;
+}
+
+html {
+    text-align: center;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 50px;
 }
